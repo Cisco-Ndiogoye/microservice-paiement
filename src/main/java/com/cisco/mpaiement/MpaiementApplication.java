@@ -1,4 +1,4 @@
-package com.mpaiement;
+package com.cisco.mpaiement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,4 +9,5 @@ public class MpaiementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MpaiementApplication.class, args);
 	}
+
 }

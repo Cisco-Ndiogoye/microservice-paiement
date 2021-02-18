@@ -1,6 +1,6 @@
-package com.mpaiement.dao;
+package com.cisco.mpaiement.dao;
 
-import com.mpaiement.model.Paiement;
+import com.cisco.mpaiement.model.Paiement;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

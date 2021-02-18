@@ -1,9 +1,9 @@
-package com.mpaiement.web.controller;
+package com.cisco.mpaiement.web.controller;
 
-import com.mpaiement.dao.PaiementDao;
-import com.mpaiement.model.Paiement;
-import com.mpaiement.web.exceptions.PaiementExistantException;
-import com.mpaiement.web.exceptions.PaiementImpossibleException;
+import com.cisco.mpaiement.dao.PaiementDao;
+import com.cisco.mpaiement.model.Paiement;
+import com.cisco.mpaiement.web.exceptions.PaiementExistantException;
+import com.cisco.mpaiement.web.exceptions.PaiementImpossibleException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.mpaiement.model;
+package com.cisco.mpaiement.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

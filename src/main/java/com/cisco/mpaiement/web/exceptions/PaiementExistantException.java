@@ -1,4 +1,4 @@
-package com.mpaiement.web.exceptions;
+package com.cisco.mpaiement.web.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
